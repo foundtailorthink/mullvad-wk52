@@ -1,4 +1,4 @@
-
+Atualizado Mullvad Utilitário | suporte L2TP + criptografia de ponta a ponta é o melhor Mullvad utilitário com suporte L2TP e criptografia de ponta a ponta. Seguro e otimizado.
 
 
 
