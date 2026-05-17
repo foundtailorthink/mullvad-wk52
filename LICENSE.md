@@ -1,10 +1,10 @@
-محدث Mullvad أداة | دعم L2TP + التشفير من طرف إلى طرف هو أفضل Mullvad أداة مع دعم L2TP و التشفير من طرف إلى طرف. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/mullvad-wk52/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
