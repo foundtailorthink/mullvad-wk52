@@ -1,4 +1,4 @@
-
+Updated Mullvad Utility | L2TP support + end-to-end encryption is the best Mullvad utility with L2TP support and end-to-end encryption. Secure and optimized.
 
 
 
