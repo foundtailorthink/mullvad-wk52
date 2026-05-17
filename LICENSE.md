@@ -1,10 +1,10 @@
-Atualizado Mullvad Utilitário | suporte L2TP + criptografia de ponta a ponta é o melhor Mullvad utilitário com suporte L2TP e criptografia de ponta a ponta. Seguro e otimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/mullvad-wk52/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
